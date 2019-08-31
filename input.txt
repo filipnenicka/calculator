@@ -1,0 +1,3 @@
+add 15
+multiply 236
+apply 5
